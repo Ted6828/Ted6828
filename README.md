@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ted!</h1>
 <h3 align="center">A developer from the UK.</h3>
 
-- 🔭 I’m currently working on [https://ted.florkers.com](https://ted.florkers.com)
+- 🔭 I’m currently working on some rfid shitwiz
 
 - 🌱 I’m currently learning **C#**
 
