@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on some rfid shitwiz
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java** ( Thanks uni 😡 )
 
-- 📫 How to reach me **ted@florkers.com**
+- 📫 How to reach me **mail@tedsc.com**
 
 <p align="left">
 </p>
